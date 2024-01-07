@@ -1,5 +1,5 @@
 # Lug
-Business to business delivery app. Still in progress (business partner had a baby) See screenshots for a general idea of UI. Allows option to signup as either driver or business. Calender integrated for new orders to be scheduled or driver job schedule![IMG_7446](https://github.com/ColeParsons1/Lug/assets/47366527/bcc033a0-eaa3-4d6a-9443-a3959466dfdd)
+Business to business delivery app. Still in progress (business partner had a baby) See screenshots for a general idea of UI. Allows option to signup as either driver or business. Calendar integrated for new orders to be scheduled or driver job schedule![IMG_7446](https://github.com/ColeParsons1/Lug/assets/47366527/bcc033a0-eaa3-4d6a-9443-a3959466dfdd)
 
 
 ![IMG_7434](https://github.com/ColeParsons1/Lug/assets/47366527/a9b58f3f-0af3-4100-a4a3-da8691e370fb)
